@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\bin\Debug\PS12.exe.config
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\bin\Debug\PS12.exe
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\bin\Debug\PS12.pdb
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\obj\Debug\PS12.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\obj\Debug\PS12.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\obj\Debug\PS12.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\obj\Debug\PS12.exe
+C:\Users\moham\source\repos\AssistedProject\PS12\PS12\obj\Debug\PS12.pdb
